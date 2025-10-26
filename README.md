@@ -1,4 +1,3 @@
-![MasterHead]
 <h1 align="center">你好 Everyone 👋, I'm Dawn </h1>
 <h3 align="center">A student passionate programming come from VN</h3>
 <img align="right" alt="Coding" width="450" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
